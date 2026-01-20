@@ -1,4 +1,4 @@
-<img width="2879" height="1799" alt="Screenshot 2026-01-20 145807" src="https://github.com/user-attachments/assets/e77e84f9-6c33-434f-b31a-5c11b76e986f" /># Smart Folder Cleaner
+# Smart Folder Cleaner
 
 ## 1. The Problem
 In our daily digital lives, download folders and desktops often become cluttered with a chaotic mix of file types—images, documents, installers, and archives. Organizing these manually is tedious, time-consuming, and repetitive. This clutter makes it difficult to find important files and reduces productivity. **Smart Folder Cleaner** automates this process, instantly restoring order to any chosen directory.
